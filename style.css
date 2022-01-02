@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.conteiner{
+ margin: 1rem;
+ padding: 0.5rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+#number{
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+}
+
+.middle{
+  padding-bottom: 1rem;
+}
+
+button{
+  height: 25px;
+}
+
+li{
+  padding-bottom: 10px;
+}
